@@ -1,0 +1,50 @@
+
+body {
+    background-color: gainsboro
+    
+}
+
+li,p {
+    color: rgb(0, 62, 124);
+    width: 1,2;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+h2 {
+    padding: 5px;
+    margin: 10px;
+    font-weight: bold;
+    color: #0a58ca;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h3 {
+    padding: 5px;
+    margin: 10px;
+    font-weight: bold;
+    color: #0a58ca;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+section {
+    width: 1,2;
+    border: 2px solid rgb(32, 23, 134);
+    padding: 50 px;
+    margin: 10px;
+}
+
+div.avatar {
+    height: 150px;
+    width: 150px;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    background-size: 100% auto;
+    position: relative;
+    margin: auto;
+
+}
